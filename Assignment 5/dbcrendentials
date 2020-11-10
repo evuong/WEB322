@@ -1,0 +1,11 @@
+Please note that these credentials are not permanent.
+
+Heroku rotates credentials periodically and updates applications where this database is attached.
+
+Host: ec2-54-225-95-183.compute-1.amazonaws.com
+Database: d41ea24563tp6e
+User: psnolynfwcxxou
+Port: 5432
+Password: d2e0d3608aacad13aea00a211b40d7d35ac323bd2ba36c5cceebd71631f5e109
+URI: postgres://psnolynfwcxxou:d2e0d3608aacad13aea00a211b40d7d35ac323bd2ba36c5cceebd71631f5e109@ec2-54-225-95-183.compute-1.amazonaws.com:5432/d41ea24563tp6e
+Heroku CLI: heroku pg:psql postgresql-parallel-99690 --app sleepy-oasis-96629

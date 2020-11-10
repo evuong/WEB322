@@ -1,0 +1,21 @@
+{
+  "name": "webapp-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Edward Vuong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "multer": "^1.4.1",
+    "pg": "^7.8.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.1.0"
+  }
+}
